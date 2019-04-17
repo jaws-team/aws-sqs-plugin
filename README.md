@@ -1,6 +1,6 @@
 # AWS SQS Plugin for Jenkins
 
-[![Build Status](https://travis-ci.org/jaws-team/aws-sqs-plugin.svg?branch=master)](https://travis-ci.org/jaws-team/aws-sqs-plugin)
+[![Build Status](https://travis-ci.com/jaws-team/aws-sqs-plugin.svg?branch=master)](https://travis-ci.com/jaws-team/aws-sqs-plugin)
 
 A Jenkins plugin that allows using Events sent to Amazon Simple Queue Service (SQS) as a build trigger.
 
